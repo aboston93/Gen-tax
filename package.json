@@ -1,0 +1,21 @@
+{
+  "name": "gen-tax",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gen-tax",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
