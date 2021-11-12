@@ -3,5 +3,8 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "gen-tax",
   },
-  plugins: [],
+  plugins: [    "gatsby-plugin-image",
+  "gatsby-plugin-sharp",
+  "gatsby-source-filesystem"
+],
 };
